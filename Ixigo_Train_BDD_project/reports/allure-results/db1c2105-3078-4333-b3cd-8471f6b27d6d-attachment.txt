@@ -1,0 +1,2 @@
+Step Name: passenger should not be saved
+Status: PASSED

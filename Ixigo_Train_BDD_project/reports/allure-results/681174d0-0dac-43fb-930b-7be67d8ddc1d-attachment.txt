@@ -1,0 +1,2 @@
+Step Name: user tries to save passenger without name
+Status: PASSED

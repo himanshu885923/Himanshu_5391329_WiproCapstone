@@ -1,0 +1,2 @@
+Step Name: user selects or adds passenger
+Status: PASSED

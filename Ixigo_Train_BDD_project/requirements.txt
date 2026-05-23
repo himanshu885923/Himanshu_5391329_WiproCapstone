@@ -1,0 +1,6 @@
+selenium
+behave
+openpyxl
+allure-behave
+allure-python-commons
+webdriver-manager

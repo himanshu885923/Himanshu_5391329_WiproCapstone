@@ -1,0 +1,2 @@
+Step Name: user opens ixigo website
+Status: PASSED

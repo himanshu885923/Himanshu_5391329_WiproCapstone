@@ -1,0 +1,2 @@
+Step Name: trains icon should be visible
+Status: PASSED

@@ -1,0 +1,100 @@
+22:46:57 [INFO] ===== BDD TEST EXECUTION STARTED =====
+22:46:57 [INFO] Starting Scenario: Complete train booking flow till payment page
+22:47:09 [INFO] Step: user opens ixigo website -> PASSED
+22:47:09 [INFO] Screenshot saved at: reports/screenshots/user_opens_ixigo_website_PASSED.png
+22:47:26 [INFO] Step: user logs in using phone number and otp -> PASSED
+22:47:26 [INFO] Screenshot saved at: reports/screenshots/user_logs_in_using_phone_number_and_otp_PASSED.png
+22:47:32 [INFO] Step: user clicks on trains icon -> PASSED
+22:47:32 [INFO] Screenshot saved at: reports/screenshots/user_clicks_on_trains_icon_PASSED.png
+22:47:57 [INFO] Step: user searches train using excel data -> PASSED
+22:47:57 [INFO] Screenshot saved at: reports/screenshots/user_searches_train_using_excel_data_PASSED.png
+22:48:19 [INFO] Step: user selects available seat and clicks book -> PASSED
+22:48:19 [INFO] Screenshot saved at: reports/screenshots/user_selects_available_seat_and_clicks_book_PASSED.png
+22:48:29 [INFO] Step: user selects or adds passenger -> PASSED
+22:48:29 [INFO] Screenshot saved at: reports/screenshots/user_selects_or_adds_passenger_PASSED.png
+22:48:46 [INFO] Step: user proceeds to payment -> PASSED
+22:48:46 [INFO] Screenshot saved at: reports/screenshots/user_proceeds_to_payment_PASSED.png
+22:48:46 [INFO] Step: payment page should be displayed -> PASSED
+22:48:46 [INFO] Screenshot saved at: reports/screenshots/payment_page_should_be_displayed_PASSED.png
+22:48:46 [INFO] Scenario Completed: Complete train booking flow till payment page
+22:48:46 [INFO] Starting Scenario: Verify login and trains icon
+22:48:53 [INFO] Step: user opens ixigo website -> PASSED
+22:48:53 [INFO] Screenshot saved at: reports/screenshots/user_opens_ixigo_website_PASSED.png
+22:49:10 [INFO] Step: user logs in using phone number and otp -> PASSED
+22:49:10 [INFO] Screenshot saved at: reports/screenshots/user_logs_in_using_phone_number_and_otp_PASSED.png
+22:49:10 [INFO] Step: trains icon should be visible -> PASSED
+22:49:10 [INFO] Screenshot saved at: reports/screenshots/trains_icon_should_be_visible_PASSED.png
+22:49:10 [INFO] Scenario Completed: Verify login and trains icon
+22:49:10 [INFO] Starting Scenario: Verify valid train search
+22:49:17 [INFO] Step: user opens ixigo website -> PASSED
+22:49:17 [INFO] Screenshot saved at: reports/screenshots/user_opens_ixigo_website_PASSED.png
+22:49:34 [INFO] Step: user logs in using phone number and otp -> PASSED
+22:49:34 [INFO] Screenshot saved at: reports/screenshots/user_logs_in_using_phone_number_and_otp_PASSED.png
+22:49:39 [INFO] Step: user clicks on trains icon -> PASSED
+22:49:39 [INFO] Screenshot saved at: reports/screenshots/user_clicks_on_trains_icon_PASSED.png
+22:50:05 [INFO] Step: user searches train using excel data -> PASSED
+22:50:05 [INFO] Screenshot saved at: reports/screenshots/user_searches_train_using_excel_data_PASSED.png
+22:50:05 [INFO] Step: train result page should open -> PASSED
+22:50:05 [INFO] Screenshot saved at: reports/screenshots/train_result_page_should_open_PASSED.png
+22:50:05 [INFO] Scenario Completed: Verify valid train search
+22:50:05 [INFO] Starting Scenario: Verify available seat booking
+22:50:11 [INFO] Step: user opens ixigo website -> PASSED
+22:50:11 [INFO] Screenshot saved at: reports/screenshots/user_opens_ixigo_website_PASSED.png
+22:50:28 [INFO] Step: user logs in using phone number and otp -> PASSED
+22:50:28 [INFO] Screenshot saved at: reports/screenshots/user_logs_in_using_phone_number_and_otp_PASSED.png
+22:50:33 [INFO] Step: user clicks on trains icon -> PASSED
+22:50:33 [INFO] Screenshot saved at: reports/screenshots/user_clicks_on_trains_icon_PASSED.png
+22:50:59 [INFO] Step: user searches train using excel data -> PASSED
+22:50:59 [INFO] Screenshot saved at: reports/screenshots/user_searches_train_using_excel_data_PASSED.png
+22:51:20 [INFO] Step: user selects available seat and clicks book -> PASSED
+22:51:20 [INFO] Screenshot saved at: reports/screenshots/user_selects_available_seat_and_clicks_book_PASSED.png
+22:51:20 [INFO] Step: passenger page should open -> PASSED
+22:51:20 [INFO] Screenshot saved at: reports/screenshots/passenger_page_should_open_PASSED.png
+22:51:20 [INFO] Scenario Completed: Verify available seat booking
+22:51:20 [INFO] Starting Scenario: Verify passenger and payment flow
+22:51:28 [INFO] Step: user opens ixigo website -> PASSED
+22:51:28 [INFO] Screenshot saved at: reports/screenshots/user_opens_ixigo_website_PASSED.png
+22:51:45 [INFO] Step: user logs in using phone number and otp -> PASSED
+22:51:45 [INFO] Screenshot saved at: reports/screenshots/user_logs_in_using_phone_number_and_otp_PASSED.png
+22:51:51 [INFO] Step: user clicks on trains icon -> PASSED
+22:51:51 [INFO] Screenshot saved at: reports/screenshots/user_clicks_on_trains_icon_PASSED.png
+22:52:16 [INFO] Step: user searches train using excel data -> PASSED
+22:52:16 [INFO] Screenshot saved at: reports/screenshots/user_searches_train_using_excel_data_PASSED.png
+22:52:37 [INFO] Step: user selects available seat and clicks book -> PASSED
+22:52:37 [INFO] Screenshot saved at: reports/screenshots/user_selects_available_seat_and_clicks_book_PASSED.png
+22:52:47 [INFO] Step: user selects or adds passenger -> PASSED
+22:52:47 [INFO] Screenshot saved at: reports/screenshots/user_selects_or_adds_passenger_PASSED.png
+22:53:04 [INFO] Step: user proceeds to payment -> PASSED
+22:53:04 [INFO] Screenshot saved at: reports/screenshots/user_proceeds_to_payment_PASSED.png
+22:53:05 [INFO] Step: payment page should be displayed -> PASSED
+22:53:05 [INFO] Screenshot saved at: reports/screenshots/payment_page_should_be_displayed_PASSED.png
+22:53:05 [INFO] Scenario Completed: Verify passenger and payment flow
+22:53:05 [INFO] Starting Scenario: Verify invalid from station validation
+22:53:12 [INFO] Step: user opens ixigo website -> PASSED
+22:53:12 [INFO] Screenshot saved at: reports/screenshots/user_opens_ixigo_website_PASSED.png
+22:53:28 [INFO] Step: user logs in using phone number and otp -> PASSED
+22:53:28 [INFO] Screenshot saved at: reports/screenshots/user_logs_in_using_phone_number_and_otp_PASSED.png
+22:53:34 [INFO] Step: user clicks on trains icon -> PASSED
+22:53:34 [INFO] Screenshot saved at: reports/screenshots/user_clicks_on_trains_icon_PASSED.png
+22:53:38 [INFO] Step: user enters invalid from station -> PASSED
+22:53:38 [INFO] Screenshot saved at: reports/screenshots/user_enters_invalid_from_station_PASSED.png
+22:53:38 [INFO] Step: invalid station should not be accepted -> PASSED
+22:53:38 [INFO] Screenshot saved at: reports/screenshots/invalid_station_should_not_be_accepted_PASSED.png
+22:53:38 [INFO] Scenario Completed: Verify invalid from station validation
+22:53:38 [INFO] Starting Scenario: Verify empty passenger name validation
+22:53:45 [INFO] Step: user opens ixigo website -> PASSED
+22:53:45 [INFO] Screenshot saved at: reports/screenshots/user_opens_ixigo_website_PASSED.png
+22:54:01 [INFO] Step: user logs in using phone number and otp -> PASSED
+22:54:01 [INFO] Screenshot saved at: reports/screenshots/user_logs_in_using_phone_number_and_otp_PASSED.png
+22:54:07 [INFO] Step: user clicks on trains icon -> PASSED
+22:54:07 [INFO] Screenshot saved at: reports/screenshots/user_clicks_on_trains_icon_PASSED.png
+22:54:32 [INFO] Step: user searches train using excel data -> PASSED
+22:54:32 [INFO] Screenshot saved at: reports/screenshots/user_searches_train_using_excel_data_PASSED.png
+22:54:54 [INFO] Step: user selects available seat and clicks book -> PASSED
+22:54:54 [INFO] Screenshot saved at: reports/screenshots/user_selects_available_seat_and_clicks_book_PASSED.png
+22:54:59 [INFO] Step: user tries to save passenger without name -> PASSED
+22:54:59 [INFO] Screenshot saved at: reports/screenshots/user_tries_to_save_passenger_without_name_PASSED.png
+22:54:59 [INFO] Step: passenger should not be saved -> PASSED
+22:54:59 [INFO] Screenshot saved at: reports/screenshots/passenger_should_not_be_saved_PASSED.png
+22:54:59 [INFO] Scenario Completed: Verify empty passenger name validation
+22:54:59 [INFO] ===== BDD TEST EXECUTION COMPLETED =====
