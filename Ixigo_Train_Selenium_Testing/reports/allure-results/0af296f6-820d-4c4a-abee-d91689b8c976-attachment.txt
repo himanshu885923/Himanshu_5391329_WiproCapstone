@@ -1,0 +1,20 @@
+[32mINFO    [0m tests.test_end_to_end:test_end_to_end.py:30 ===== STARTING END TO END TEST =====
+[32mINFO    [0m tests.test_end_to_end:test_end_to_end.py:39 Test Data Loaded -> FROM: NDLS, TO: AGC
+[32mINFO    [0m tests.test_end_to_end:test_end_to_end.py:51 Starting Login
+[32mINFO    [0m tests.test_end_to_end:test_end_to_end.py:55 Login completed
+[32mINFO    [0m tests.test_end_to_end:test_end_to_end.py:60 Opening Train Page
+[32mINFO    [0m tests.test_end_to_end:test_end_to_end.py:64 Train icon clicked
+[32mINFO    [0m tests.test_end_to_end:test_end_to_end.py:69 Entering FROM station
+[32mINFO    [0m tests.test_end_to_end:test_end_to_end.py:73 FROM selected
+[32mINFO    [0m tests.test_end_to_end:test_end_to_end.py:77 TO selected
+[32mINFO    [0m tests.test_end_to_end:test_end_to_end.py:81 Date selected
+[32mINFO    [0m tests.test_end_to_end:test_end_to_end.py:85 Search clicked
+[32mINFO    [0m tests.test_end_to_end:test_end_to_end.py:91 After search URL: https://www.ixigo.com/trains/search-pwa/from/NDLS/to/AGC/25-06-2026
+[32mINFO    [0m tests.test_end_to_end:test_end_to_end.py:96 Searching AVL seats
+[32mINFO    [0m tests.test_end_to_end:test_end_to_end.py:100 AVL seat selected and Book clicked
+[32mINFO    [0m tests.test_end_to_end:test_end_to_end.py:110 Passenger page URL: https://www.ixigo.com/trains/search-pwa/passenger-details
+[32mINFO    [0m tests.test_end_to_end:test_end_to_end.py:117 Selecting Passenger
+[32mINFO    [0m tests.test_end_to_end:test_end_to_end.py:125 Passenger selected
+[32mINFO    [0m tests.test_end_to_end:test_end_to_end.py:135 Proceeding to payment
+[32mINFO    [0m tests.test_end_to_end:test_end_to_end.py:139 Credit/Debit/ATM Card option opened
+[32mINFO    [0m tests.test_end_to_end:test_end_to_end.py:147 END TO END FLOW COMPLETED SUCCESSFULLY
