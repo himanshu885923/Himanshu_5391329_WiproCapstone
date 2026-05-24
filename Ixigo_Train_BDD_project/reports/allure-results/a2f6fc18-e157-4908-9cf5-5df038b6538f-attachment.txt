@@ -1,2 +1,0 @@
-Step Name: user proceeds to payment
-Status: PASSED

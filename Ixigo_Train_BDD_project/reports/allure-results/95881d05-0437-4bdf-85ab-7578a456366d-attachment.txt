@@ -1,2 +1,0 @@
-Step Name: payment page should be displayed
-Status: PASSED

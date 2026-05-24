@@ -1,2 +1,0 @@
-Step Name: passenger page should open
-Status: PASSED

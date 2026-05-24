@@ -1,0 +1,2 @@
+Step Name: user clicks on trains icon
+Status: PASSED
